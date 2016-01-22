@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[In Memory Of a Magnificent Canine]]></title>
         <description><![CDATA[In Memory Of a Magnificent Canine]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scurlogue-champ/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 17:28:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 17:28:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scurlogue-champ/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7251ae5-b88d-4fca-bee1-9350bc926280.jpg">]]></description>
+            <link>https://thegrid.ai/scurlogue-champ/93b6408e-8535-47b8-a4c4-12737cb7f0c3/index.html</link>
+            <guid isPermaLink="false">93b6408e-8535-47b8-a4c4-12737cb7f0c3</guid>
+            <pubDate>Fri, 22 Jan 2016 17:18:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f5a1baf-ebc0-4056-9e69-afb55eaf7fb5.jpg">]]></description>
-            <link>undefined4ce4c621-a963-4fa1-adc2-4d472ce9ff58/index.html</link>
+            <link>https://thegrid.ai/scurlogue-champ/4ce4c621-a963-4fa1-adc2-4d472ce9ff58/index.html</link>
             <guid isPermaLink="false">4ce4c621-a963-4fa1-adc2-4d472ce9ff58</guid>
             <pubDate>Fri, 22 Jan 2016 17:18:48 GMT</pubDate>
         </item>
