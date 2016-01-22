@@ -1,0 +1,28 @@
+name: Scurlogue Champ
+favicon: null
+layout_spectrum: 0.41100436937995255
+typography_spectrum: 0.39209325332194567
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7723089710343629
+  lightness: 0.49979728320613503
+  saturation: 0.8118087302427739
+  rhythmicContrast: 0.1259577930904925
+purpose: []
